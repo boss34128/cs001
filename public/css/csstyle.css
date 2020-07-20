@@ -1,0 +1,23 @@
+        body{
+            font-family: 'Mali', cursive;
+        }
+        .headercs{
+            font-size: 90px;
+            background-color: rgb(32, 63, 121);
+            color: rgb(111, 162, 255);
+            height: 110px;
+            text-align: center;
+        }
+        .content{
+            font-size: 20px;
+            background-color: rgb(13, 128, 18);
+            color: rgb(255, 255, 255);
+            height: 35px;
+            text-align: center;
+        }
+        .menu{
+            padding: 14px 40px;
+        }
+        .konha{
+            padding: 14px;
+        }
